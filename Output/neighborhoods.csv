@@ -1,0 +1,70 @@
+RegionID,SizeRank_US,RegionName,City,CountyName,SizeRank_Cin,lat,lon
+204284,366,Westwood,Cincinnati,Hamilton County,1,39.1486697,-84.5993894
+275981,759,West Price HIll,Cincinnati,Hamilton County,2,39.112192,-84.605955
+273417,839,CUF,Cincinnati,Hamilton County,3,39.13034985,-84.52935139236209
+201414,995,Hyde Park,Cincinnati,Hamilton County,4,39.1395957,-84.4423972
+200100,1147,College Hill,Cincinnati,Hamilton County,5,39.1953178,-84.5578255
+274624,1441,Mt. Washington,Cincinnati,Hamilton County,6,39.0875609,-84.3863286
+273561,1462,East Price Hill,Cincinnati,Hamilton County,7,39.106142,-84.5807041
+200781,1481,Forestville,Cincinnati,Hamilton County,8,39.0746218,-84.34209599046247
+274620,1785,Mt. Airy,Cincinnati,Hamilton County,9,39.191447,-84.5702225
+202657,1839,Oakley,Cincinnati,Hamilton County,10,39.1530808,-84.4307088
+201948,1870,Madisonville,Cincinnati,Hamilton County,11,39.1573886,-84.3903684
+200632,2080,Evanston,Cincinnati,Hamilton County,12,39.1445039,-84.4693865
+274791,2223,Northside,Cincinnati,Hamilton County,13,39.1634176,-84.5398743
+199345,2227,Avondale,Cincinnati,Hamilton County,14,39.147837,-84.4949428
+200052,2317,Clifton,Cincinnati,Hamilton County,15,39.1496151,-84.5387535
+202946,2366,Pleasant Ridge,Cincinnati,Hamilton County,16,39.1823662,-84.4265345
+203265,2412,Roselawn,Cincinnati,Hamilton County,17,39.194971,-84.4629604
+204112,2623,Walnut Hills,Cincinnati,Hamilton County,18,39.1272573,-84.4992359
+274686,2692,North Avondale,Cincinnati,Hamilton County,19,39.1559643,-84.4857762
+199607,2708,Bond Hill,Cincinnati,Hamilton County,20,39.179925,-84.4801268
+276647,2881,West End,Cincinnati,Hamilton County,21,39.1098336,-84.5288626
+274621,3061,Mt. Auburn,Cincinnati,Hamilton County,22,39.1192592,-84.5174844
+274623,3092,Mt. Lookout,Cincinnati,Hamilton County,23,39.1279522,-84.4369616
+201193,3199,Hartwell,Cincinnati,Hamilton County,24,39.2108172,-84.4727614
+202750,3314,Over-The-Rhine,Cincinnati,Hamilton County,25,39.1115038,-84.5143927
+276110,3699,Winton Hills,Cincinnati,Hamilton County,26,39.1860023,-84.5193982
+201559,3790,Kennedy Heights,Cincinnati,Hamilton County,27,39.1831258,-84.4183891
+203599,4457,South Fairmount,Cincinnati,Hamilton County,28,39.1256149,-84.5518882
+273189,5407,Central Business District,Cincinnati,Hamilton County,29,39.1028148,-84.5246515
+200172,5460,Corryville,Cincinnati,Hamilton County,30,39.1318601,-84.506554
+200850,5748,Fruit Hill,Cincinnati,Hamilton County,31,39.0711943,-84.3763343
+204406,5852,Winton Place,Cincinnati,Hamilton County,32,39.1701333,-84.5164611
+203392,6343,Sayler Park,Cincinnati,Hamilton County,33,39.1125587,-84.6891133
+273574,6691,East Westwood,Cincinnati,Hamilton County,34,39.1502161,-84.5678763
+199885,6835,Carthage,Cincinnati,Hamilton County,35,39.1960281,-84.4786183
+273544,8321,East End,Cincinnati,Hamilton County,36,39.11323395,-84.48737957639668
+274942,8333,Paddock Hills,Cincinnati,Hamilton County,37,39.1626188,-84.4814705
+762777,8585,Mid Heights,Loveland,Clermont County,38,39.2649861,-84.2757216
+273334,8630,Columbia-Tusculum,Cincinnati,Hamilton County,39,39.1154346,-84.4396462
+276431,9377,Lower Price Hill,Cincinnati,Hamilton County,40,39.1053532,-84.5603652
+199841,9720,Camp Washington,Cincinnati,Hamilton County,41,39.1369816,-84.5371682
+203181,9863,Riverside,Cincinnati,Hamilton County,42,39.0775756,-84.6117549
+274619,9975,Mt. Adams,Cincinnati,Hamilton County,43,39.1075532,-84.4991114
+275423,10600,South Cumminsville,Cincinnati,Hamilton County,44,39.1543665,-84.5491621
+274707,11115,North Fairmount,Cincinnati,Hamilton County,45,39.1352158,-84.5515914
+762783,11493,Pheasant Hills,Loveland,Clermont County,46,39.2611843,-84.3019982
+201803,12050,Linwood,Cincinnati,Hamilton County,47,39.120514,-84.4157538
+202841,12425,Pendleton,Cincinnati,Hamilton County,48,39.1104996,-84.5077559
+199824,12462,California,Cincinnati,Hamilton County,49,39.0652059,-84.4272386
+203427,12588,Sedamsville,Cincinnati,Hamilton County,50,39.093393,-84.5729996
+762771,13326,Fox Meadow Farms,Loveland,Clermont County,51,39.27283455,-84.29334278400452
+762781,14064,Claiborne East,Loveland,Clermont County,52,39.26590675,-84.28398606732343
+762778,14288,Loveland-Madeira Corridor,Loveland,Clermont County,53,39.2584893,-84.2880393
+762759,14471,Henry Hannah's Farm,Loveland,Clermont County,54,39.2602237,-84.2618913
+762780,14567,Stoneybrook,Loveland,Clermont County,55,39.26030985,-84.27993688049125
+762784,14666,Glen Lake,Loveland,Clermont County,56,39.2703149,-84.29495997253801
+762775,14847,Historic West Loveland,Loveland,Clermont County,57,39.2679267,-84.2591059
+762773,14996,East Loveland,Loveland,Clermont County,58,39.271303,-84.2636001
+762776,15421,West Loveland North,Loveland,Clermont County,59,39.271303,-84.2636001
+254747,15593,Woodford,Loveland,Clermont County,60,39.26431705,-84.30012663391575
+762772,15831,White Pillars,Loveland,Clermont County,61,39.2557523,-84.24070729502338
+762785,15936,Pheasant Hills on the Lake,Loveland,Clermont County,62,39.2643791,-84.2966167
+762782,16076,Claiborne West,Loveland,Clermont County,63,39.26590675,-84.28398606732343
+255183,16115,Brandywine,Loveland,Clermont County,64,39.2784178,-84.2574159
+762770,16165,Hidden Creek,Loveland,Clermont County,65,39.2747636,-84.30380363004727
+261175,16276,Riverside,Loveland,Clermont County,66,39.2629983,-84.2694719
+762779,16445,Fox Chase,Loveland,Clermont County,67,39.25838225,-84.28318335734754
+762774,16447,Downtown,Loveland,Clermont County,68,39.2697192,-84.2609599
+396689,16533,Huntington,Loveland,Clermont County,69,39.2517002,-84.2493667
